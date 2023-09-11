@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    gap: 3rem;
+border-radius: 10px;
+}
+header{
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-size: 2rem;
+}
